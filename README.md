@@ -29,3 +29,5 @@ This RShiny dashboard explores housing trends across ZIP codes in the U.S., with
 
 This dashboard was created as part of a graduate research project using the [USA Housing Dataset from Kaggle](https://www.kaggle.com/datasets). It provides a visual analysis of how home features and crime rates interact to influence housing trends and affordability in different ZIP codes.
 
+Real-World Importance
+This dashboard provides insight into how housing characteristics and crime rates interact, helping users understand affordability and safety across zip codes. The findings can support informed decision-making for prospective homebuyers, policymakers, and urban planners focused on equitable housing access.
