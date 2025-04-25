@@ -10,6 +10,7 @@ This RShiny dashboard explores housing trends across ZIP codes in the U.S., with
 - Each plot maps:
   - **Average square footage** on the y-axis
   - **ZIP code** on the x-axis
+  - You can select a price range you want to view and the graphs will only show that specific range 
 - Hovering over each data point displays:
   - Square footage
   - Crime rate
